@@ -1,6 +1,7 @@
-## Tudo bem com você? Espero que sim! Me chamo **Thyago Porto**, seja bem vindo ao meu perfil.😃
+## Tudo bem com você? Espero que sim! 
+## Me chamo Thyago Porto, seja bem vindo ao meu perfil. 😃
 
-- 🌱 Estou cursando Programação Front-end!
+- 🌱 **Estou cursando Programação Front-end!**
 
 <div align="center">
   <a href="https://github.com/ThyagoPorto">
