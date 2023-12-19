@@ -1,20 +1,23 @@
-## Tudo bem com você? Espero que sim! 
-## Me chamo Thyago Porto, seja bem vindo ao meu perfil. 😃
-
--  **Instrutor de Desenvolvimento Web Front-end!**
+## Tudo bem com você? Espero que sim! Seja bem vindo ao meu perfil. 
 
 <div>
   <a href="https://github.com/ThyagoPorto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThyagoPorto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoPorto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoPorto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<br> 
+    
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Tecnologias <3</h1>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
+ 
  
  ##
  
